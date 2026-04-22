@@ -18,3 +18,8 @@ A CLI-based Student Management System built in Java.
 ## How to Run
 1. Compile: javac Main.java  
 2. Run: java Main
+
+## Sample Output
+ID | Name | Age | Course
+----------------------------
+1 | Aashish | 22 | MCA
